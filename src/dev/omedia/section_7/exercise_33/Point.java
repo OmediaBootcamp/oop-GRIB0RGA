@@ -1,4 +1,4 @@
-package dev.omedia.section_7.exercise_34;
+package dev.omedia.section_7.exercise_33;
 
 public class Point {
     private int x;
